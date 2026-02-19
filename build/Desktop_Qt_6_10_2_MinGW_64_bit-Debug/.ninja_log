@@ -1,0 +1,23 @@
+# ninja log v6
+10	1004	7926243699517296	prog_autogen/timestamp	9a1dcb43086dbeff
+10	1004	7926243699517296	prog_autogen/mocs_compilation.cpp	9a1dcb43086dbeff
+1047	2377	7926243701889294	CMakeFiles/prog.dir/navire.cpp.obj	8688037b986e808a
+10	1004	7926243699517296	C:/Users/kamga/Documents/prog/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/prog_autogen/timestamp	9a1dcb43086dbeff
+10	1004	7926243699517296	C:/Users/kamga/Documents/prog/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/prog_autogen/mocs_compilation.cpp	9a1dcb43086dbeff
+1015	3775	7926243701511903	CMakeFiles/prog.dir/prog_autogen/mocs_compilation.cpp.obj	fb389d1abd619702
+1022	3739	7926243701666863	CMakeFiles/prog.dir/main.cpp.obj	f9167a31e4f743ee
+1038	3894	7926243701807727	CMakeFiles/prog.dir/dialognavire.cpp.obj	239073ec91aa28df
+1029	4274	7926243701666863	CMakeFiles/prog.dir/mainwindow.cpp.obj	da1014705b790e34
+4275	4902	7926243734137698	prog.exe	f4b066db41549e04
+63	121	7926245547998937	CMakeFiles/clean.additional	baedbe210acaa455
+121	176	7926245548590768	clean	577b940aee94fbd7
+175	1318	7928965198653992	prog_autogen/timestamp	9a1dcb43086dbeff
+175	1318	7928965198653992	prog_autogen/mocs_compilation.cpp	9a1dcb43086dbeff
+175	1318	7928965198653992	C:/Users/kamga/Documents/prog/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/prog_autogen/timestamp	9a1dcb43086dbeff
+175	1318	7928965198653992	C:/Users/kamga/Documents/prog/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/prog_autogen/mocs_compilation.cpp	9a1dcb43086dbeff
+1337	3381	7928965200368845	CMakeFiles/prog.dir/navire.cpp.obj	8688037b986e808a
+1325	5184	7928965200242118	CMakeFiles/prog.dir/main.cpp.obj	f9167a31e4f743ee
+1333	5207	7928965200316716	CMakeFiles/prog.dir/dialognavire.cpp.obj	239073ec91aa28df
+1320	5303	7928965200192131	CMakeFiles/prog.dir/prog_autogen/mocs_compilation.cpp.obj	fb389d1abd619702
+1329	5912	7928965200283846	CMakeFiles/prog.dir/mainwindow.cpp.obj	da1014705b790e34
+5912	6576	7928965246114851	prog.exe	f4b066db41549e04
